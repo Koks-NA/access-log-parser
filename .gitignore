@@ -3,6 +3,7 @@ out/
 *.iml
 target/
 .mvn/
+pom.xml
 
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
